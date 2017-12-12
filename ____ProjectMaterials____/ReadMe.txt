@@ -1,0 +1,1 @@
+Folloed link: http://docs.phonegap.com/getting-started/4-preview-your-app/cli/
